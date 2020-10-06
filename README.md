@@ -1,2 +1,2 @@
 # angr-kitty
-angr color scheme for kitty terminal emulator
+Port of [@zacanger's angr (n)vim color scheme](https://github.com/zacanger/angr.vim) for kitty terminal emulator.
